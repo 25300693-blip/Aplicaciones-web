@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Lato:wght@400;700&display=swap');
+
+body{
+    margin: 0%;
+    background-color: #fdf3f0;
+    font-family: 'Lato', sans-serif;
+}
+
+p{
+    font-size: 1.1rem;
+    color: #3a2e2e;
+    line-height: 2rem;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    color: #b1355e;
+}
+
+h2{
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    color: #c9668a;
+}
+
+h3, h4{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.8rem;
+    color: #a04668;
+}
+
+a{
+    color: #8e3b5e;
+    font-weight: bold;
+}
+
+.imgclass{
+    width: 50%;
+    border-radius: 12px;
+}
+
+.contenedor{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
+
+.seccion{
+    padding: 1.5rem 2rem;
+    margin-bottom: 1.5rem;
+    border-radius: 12px;
+}
+
+.seccion-intro{
+    background-color: #fbe0e6;
+}
+
+.seccion-info{
+    background-color: #f7d9d0;
+}
+
+.seccion-prep{
+    background-color: #f4e1e8;
+}
+
+.seccion-extra{
+    background-color: #fbe9e7;
+}
+
+.seccion-imagen{
+    text-align: center;
+    background-color: #fdf0ee;
+}
+
+.seccion-nav{
+    text-align: center;
+    background-color: #f6d6de;
+}
