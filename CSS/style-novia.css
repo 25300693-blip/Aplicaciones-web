@@ -68,6 +68,11 @@ a{
     background-color: #fbe9e7;
 }
 
+.seccion-footer{
+    background-color: #f6d6de;
+    text-align: center;
+}
+
 .seccion-imagen{
     text-align: center;
     background-color: #fdf0ee;
