@@ -77,3 +77,14 @@ a{
     text-align: center;
     background-color: #f6d6de;
 }
+.seccion-hero{
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.imghero{
+    width: 100%;
+    max-height: 380px;
+    object-fit: cover;
+    border-radius: 12px;
+}
